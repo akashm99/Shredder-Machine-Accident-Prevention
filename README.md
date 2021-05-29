@@ -5,7 +5,7 @@ Solving Problem of Accidents with Garbage Shredder Machine by Computer Vision. L
 ![op](OpScreenShots/op.gif)
 
 ## Problem Statement Example:
-<img src="OpScreenShots/useCase.png" width="650" height="450">
+<img src="OpScreenShots/useCase.png" width="750" height="450">
 
 ## File Structure to navigate easily:
 <img src="OpScreenShots/folderTree.PNG" width="350" height="450">
